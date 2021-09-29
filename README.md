@@ -1,2 +1,3 @@
 # blokgames.github.io
-BlokGames Website
+
+This repository is for the temporary holding website
