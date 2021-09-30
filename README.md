@@ -1,3 +1,7 @@
-# blokgames.github.io
+# Repository Information
 
-This repository is for the temporary holding website
+Repository for temporary website holder
+
+# Website 
+
+[Clicke ME](https://www.blok.games/)
